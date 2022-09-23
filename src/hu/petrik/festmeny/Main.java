@@ -1,4 +1,4 @@
-package hu.petrik.template_project;
+package hu.petrik.festmeny;
 
 public class Main {
 

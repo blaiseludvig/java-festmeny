@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntelliJ-java-template.iml" filepath="$PROJECT_DIR$/IntelliJ-java-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/festmeny.iml" filepath="$PROJECT_DIR$/festmeny.iml" />
     </modules>
   </component>
 </project>
